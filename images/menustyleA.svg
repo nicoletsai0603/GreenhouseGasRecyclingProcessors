@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="239.85" height="191.13" viewBox="0 0 239.85 191.13">
+  <defs>
+    <linearGradient id="a" data-name="未命名漸層 41" x1="48.56" y1="-28.04" x2="191.29" y2="219.17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff6300"/>
+      <stop offset="0.29" stop-color="#ff6300" stop-opacity="0.5"/>
+      <stop offset="0.99" stop-color="#ff6300"/>
+    </linearGradient>
+  </defs>
+  <rect width="239.85" height="191.13" style="opacity: 0.77;fill: url(#a)"/>
+</svg>

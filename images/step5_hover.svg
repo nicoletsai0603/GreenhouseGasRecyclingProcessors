@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="333.406" height="113.651" viewBox="0 0 333.406 113.651">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.9;
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.723" y1="-0.355" x2="0.152" y2="1.321" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ea7f84"/>
+      <stop offset="0.294" stop-color="#ea7f84" stop-opacity="0.502"/>
+      <stop offset="0.988" stop-color="#ea7f84"/>
+    </linearGradient>
+  </defs>
+  <path id="step5_hover" class="cls-1" d="M475.967,642.925l-88.54-51.97.481,16.326H142.561v83h247.79l.422,14.325Z" transform="translate(-142.561 -590.955)"/>
+</svg>
